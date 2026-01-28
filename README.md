@@ -13,7 +13,7 @@ Actualmente trabajando en FLASH Parking y preparándome para convertirme en QA T
 
 ## Aprendizaje Actual
 - QA Tester - Capacítate para el Empleo (Completado)
-- Python Básico - Netzun (En progreso)
+- Python Básico - LinkedIn Learning (En progreso)
 - Selenium WebDriver (Próximamente)
 
 ## Skills en Desarrollo
